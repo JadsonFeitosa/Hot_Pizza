@@ -1,0 +1,79 @@
+<list>
+  <list>
+    <string>1</string>
+    <string>NOME 1</string>
+    <string>DISCO DE MASSA - P( ASDASD )( 515151 )</string>
+    <string>P</string>
+    <string>6</string>
+    <string>1.85</string>
+    <string>11.11</string>
+    <string>1-DISCO MASSA P -ASDASD- QUANT KG(5.0)-515151- QUANT KG(6.0)-</string>
+    <string>235.10999</string>
+  </list>
+  <list>
+    <string>2</string>
+    <string>NOME 2</string>
+    <string>DISCO DE MASSA - M( ASDASD )</string>
+    <string>M</string>
+    <string>8</string>
+    <string>7.05</string>
+    <string>56.44</string>
+    <string>1-DISCO MASSA M -ASDASD- QUANT KG(2.0)-</string>
+    <string>28.22</string>
+  </list>
+  <list>
+    <string>1</string>
+    <string></string>
+    <null/>
+    <string></string>
+    <string>0</string>
+    <string>0.0</string>
+    <string>0.0</string>
+    <string></string>
+    <string>0.0</string>
+  </list>
+  <list>
+    <string>1</string>
+    <string></string>
+    <null/>
+    <string></string>
+    <string>0</string>
+    <string>0.0</string>
+    <string>0.0</string>
+    <string></string>
+    <string>0.0</string>
+  </list>
+  <list>
+    <string>2</string>
+    <string>nome1</string>
+    <null/>
+    <string>M</string>
+    <string>1</string>
+    <string>40.0</string>
+    <string>5.0</string>
+    <string>prepara</string>
+    <string>10.0</string>
+  </list>
+  <list>
+    <string>1</string>
+    <string></string>
+    <null/>
+    <string></string>
+    <string>0</string>
+    <string>40.0</string>
+    <string>0.0</string>
+    <string></string>
+    <string>0.0</string>
+  </list>
+  <list>
+    <string>1</string>
+    <string></string>
+    <null/>
+    <string></string>
+    <string>0</string>
+    <string>40.0</string>
+    <string>0.0</string>
+    <string></string>
+    <string>0.0</string>
+  </list>
+</list>
